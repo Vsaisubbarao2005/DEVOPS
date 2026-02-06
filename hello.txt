@@ -1,0 +1,3 @@
+hello everyone
+welcome to python
+lets start file handling
